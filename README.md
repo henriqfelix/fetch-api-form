@@ -13,7 +13,7 @@
 <p>clique no botão abaixo para ser redirecionado para o website do projeto.</p>
 
 <p>
-    <a href="https://henriqfelix.github.io/rock_paper-scissors/" target="_blank">
+    <a href="https://henriqfelix.github.io/fetch-api-form/" target="_blank">
         <img src="https://img.shields.io/static/v1?label&message=:: quero conferir! ::&color=blue&style=for-the-badge"/>
     </a>
 </p>
