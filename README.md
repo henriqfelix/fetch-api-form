@@ -8,18 +8,6 @@
 
 ---
 
-<h2>Acesse o projeto ⭐</h2>
-
-<p>clique no botão abaixo para ser redirecionado para o website do projeto.</p>
-
-<p>
-    <a href="https://henriqfelix.github.io/fetch-api-form/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label&message=:: quero conferir! ::&color=blue&style=for-the-badge"/>
-    </a>
-</p>
-
----
-
 <h2>Buscando um CEP aleatório 🔎</h2>
 
 <p>Neste print, é exibido o resultado que fiz em uma busca por um CEP aleatório.</p>
